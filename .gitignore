@@ -1,0 +1,12 @@
+node_modules/
+src/
+dist/
+build/
+.cache/
+.tmp/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.vercel
+.shopify
